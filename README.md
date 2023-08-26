@@ -17,3 +17,9 @@ The Project work is separated into folders:
 1)	Analysis – This folder contains all the visualizations completed in the Project.
 2)	Scripts – All the scripts involved in the project using Jupyter notebook.
 3)	Data - This folder contains the Original data and also the Wrangled(Cleaned) dataset.
+
+## Tableau Storyboard
+The completed Analysis of the overall data analysis can be summarized by the Tableau storyboard which can be found here:
+[Airbnb-Tableau](https://public.tableau.com/views/Airbnb_Amsterdam_16930272161530/Airbnbstoryboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Please note that this storyboard does not encompass all the steps performed in the Data Analysis project.
