@@ -6,6 +6,10 @@ This Data Analysis project is done using process of Linear Regression, Supervise
 
 The project data source is from Airbnb data of Amsterdam city for one day, Dec 6,2018. We are performing data analysis and machine learning tests using the data's geographic visualizations. The objective of the Data Analyst is to perform an exploratory analysis of the dataset to obtain relationships between variables and suggest strategies for how the variables affect each other and also predict how the variable affect the pricing of the Airbnb listings.
 
+## Data Source
+
+The data source is obtained using the Kaggle website: [Airbnb-Amsterdam](https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam)
+
 
 ## Structure of the Project
 
